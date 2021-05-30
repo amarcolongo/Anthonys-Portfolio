@@ -5,7 +5,7 @@
 * Both linear regression and logistic regression were used in this analysis  
 
 ### Graph of Bitcoin Volume Traded vs. Closing Price  
-![](https://github.com/amarcolongo/Anthonys-Portfolio/blob/main/images/volume%20traded%20vs%20closing%20price.png)
+[!](https://github.com/amarcolongo/Anthonys-Portfolio/blob/main/images/volume%20traded%20vs%20closing%20price.png)
 
 ### Graph of Log of Bitcoin Volume Traded vs. Closing Price
-![](https://github.com/amarcolongo/Anthonys-Portfolio/blob/main/images/log%20volume%20traded%20vs%20closing%20price.png)
+[!](https://github.com/amarcolongo/Anthonys-Portfolio/blob/main/images/log%20volume%20traded%20vs%20closing%20price.png)
